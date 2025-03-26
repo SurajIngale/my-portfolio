@@ -3,11 +3,15 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://surajingale.github.io/my-portfolio",
+
   "scripts": {
     "dev": "concurrently \"vite\" \"npm run server\"",
     "build": "vite build",
     "lint": "eslint .",
-    "server": "node server.js"
+    "server": "node server.js",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "animate.css": "^4.1.1",

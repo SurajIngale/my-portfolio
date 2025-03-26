@@ -9,17 +9,17 @@ export const Projects = () => {
     {
       title: "E-Commerce Platform",
       description: "A full-stack MERN-based e-commerce platform for electronic gadgets, featuring user authentication, product listings, cart management, secure checkout, and an admin dashboard for inventory management. Optimized for seamless shopping experiences with responsive UI and efficient API handling.",
-      imgUrl: "/e-commerce.png",
+      imgUrl: "/my-portfolio/e-commerce.png",
     },
     {
       title: "Project Management System",
       description: "A web-based project management tool built using the MERN stack, enabling users to create, track, and manage projects efficiently. Includes features like project status updates, sorting, pagination, dynamic charts, and role-based access control for better collaboration.",
-      imgUrl: "/appoint.png",
+      imgUrl: "/my-portfolio/appoint.png",
     },
     {
       title: "Appointment Management System",
       description: "A MERN-based appointment scheduling platform for patients and doctors, facilitating easy appointment booking, rescheduling, and real-time status tracking. Includes authentication, calendar integration, and role-based functionalities for a smooth user experience.",
-      imgUrl: "/project.png",
+      imgUrl: "/my-portfolio/project.png",
     },
   ];
 

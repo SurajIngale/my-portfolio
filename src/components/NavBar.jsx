@@ -48,10 +48,10 @@ export const NavBar = () => {
           <span className="navbar-text">
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
-                <img src="/nav-icon1.svg" alt="LinkedIn Profile" />
+                <img src="/my-portfolio/nav-icon1.svg" alt="LinkedIn Profile" />
               </a>
               <a href="https://github.com/your-github" target="_blank" rel="noopener noreferrer">
-                <img src="/git.png" alt="GitHub Profile" />
+                <img src="/my-portfolio/git.png" alt="GitHub Profile" />
               </a>
             </div>
             <HashLink to='#connect'>

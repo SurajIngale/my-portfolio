@@ -65,17 +65,17 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
                 <div className={isVisible ? "animate__animated animate__zoomIn tech-container" : ""}>
-                  <img className="tech-img1" src="/React.png" alt="Header Img"/>
-                  <img className="tech-img9" src="/Express.png" alt="Header Img"/>
-                  <img className="tech-img3" src="/Node.js.png" alt="Header Img"/>
-                  <img className="tech-img4" src="/MongoDB.png" alt="Header Img"/>
-                  <img className="tech-img5" src="/HTML5.png" alt="Header Img"/>
-                  <img className="tech-img6" src="/CSS3.png" alt="Header Img"/>
-                  <img className="tech-img7" src="/JavaScript.png" alt="Header Img"/>
-                  <img className="tech-img8" src="/vscode.png" alt="Header Img"/>
-                  <img className="tech-img2" src="/Postman.png" alt="Header Img"/>
-                  <img className="tech-img0" src="/git.png" alt="Header Img"/>
-                  <img className="tech-img10" src="/Bootstrap.png" alt="Header Img"/>
+                  <img className="tech-img1" src="/my-portfolio/React.png" alt="Header Img"/>
+                  <img className="tech-img9" src="/my-portfolio/Express.png" alt="Header Img"/>
+                  <img className="tech-img3" src="/my-portfolio/Node.js.png" alt="Header Img"/>
+                  <img className="tech-img4" src="/my-portfolio/MongoDB.png" alt="Header Img"/>
+                  <img className="tech-img5" src="/my-portfolio/HTML5.png" alt="Header Img"/>
+                  <img className="tech-img6" src="/my-portfolio/CSS3.png" alt="Header Img"/>
+                  <img className="tech-img7" src="/my-portfolio/JavaScript.png" alt="Header Img"/>
+                  <img className="tech-img8" src="/my-portfolio/vscode.png" alt="Header Img"/>
+                  <img className="tech-img2" src="/my-portfolio/Postman.png" alt="Header Img"/>
+                  <img className="tech-img0" src="/my-portfolio/git.png" alt="Header Img"/>
+                  <img className="tech-img10" src="/my-portfolio/Bootstrap.png" alt="Header Img"/>
                 </div>}
             </TrackVisibility>
           </Col>

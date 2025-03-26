@@ -31,35 +31,35 @@ export const Skills = () => {
                         <p>Proficient in React.js, Node.js, Express.js, MongoDB, and frontend styling with CSS, Bootstrap, and Tailwind CSS.<br/> Strong in API development, performance optimization, and problem-solving.</p>
                         <Carousel responsive={responsive} infinite={true} autoPlay={true} autoPlaySpeed={2000} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
-                                <img src="/React.png" alt="Image" />
+                                <img src="/my-portfolio/my-portfolio/React.png" alt="Image" />
                                 <h5>React Js</h5>
                             </div>
                             <div className="item">
-                                <img src="/Node.js.png" alt="Image" />
+                                <img src="/my-portfolio/Node.js.png" alt="Image" />
                                 <h5>Node Js</h5>
                             </div>
                             <div className="item">
-                                <img src="/Express.png" alt="Image" />
+                                <img src="/my-portfolio/Express.png" alt="Image" />
                                 <h5>Express Js</h5>
                             </div>
                             <div className="item">
-                                <img src="/MongoDB.png" alt="Image" />
+                                <img src="/my-portfolio/MongoDB.png" alt="Image" />
                                 <h5>MongoDB</h5>
                             </div>
                             <div className="item">
-                                <img src="/JavaScript.png" alt="Image" />
+                                <img src="/my-portfolio/JavaScript.png" alt="Image" />
                                 <h5>JavaScript</h5>
                             </div>
                             <div className="item">
-                                <img src="/HTML5.png" alt="Image" />
+                                <img src="/my-portfolio/HTML5.png" alt="Image" />
                                 <h5>HTML5</h5>
                             </div>
                             <div className="item">
-                                <img src="/CSS3.png" alt="Image" />
+                                <img src="/my-portfolio/CSS3.png" alt="Image" />
                                 <h5>CSS3</h5>
                             </div>
                             <div className="item">
-                                <img src="/Bootstrap.png" alt="Image" />
+                                <img src="/my-portfolio/Bootstrap.png" alt="Image" />
                                 <h5>Bootstrap</h5>
                             </div>
                         </Carousel>
